@@ -7,7 +7,7 @@ packages:
       name: async
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.4.1"
+    version: "2.4.2"
   boolean_selector:
     dependency: transitive
     description:
@@ -81,13 +81,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.0"
-  pedantic:
-    dependency: "direct dev"
-    description:
-      name: pedantic
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.8.0+1"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -106,7 +99,7 @@ packages:
       name: stack_trace
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.9.3"
+    version: "1.9.5"
   stream_channel:
     dependency: transitive
     description:
@@ -141,7 +134,7 @@ packages:
       name: typed_data
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.6"
+    version: "1.2.0"
   vector_math:
     dependency: transitive
     description:
@@ -151,3 +144,4 @@ packages:
     version: "2.0.8"
 sdks:
   dart: ">=2.9.0-14.0.dev <3.0.0"
+  flutter: ">=1.20.0 <2.0.0"
